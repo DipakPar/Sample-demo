@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/drivers/seleniumjava jar/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="E:/desktop/New Folder (3)/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/desktop/New Folder (3)/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/desktop/New Folder (3)/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/desktop/New Folder (3)/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="E:/desktop/New Folder (3)/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
